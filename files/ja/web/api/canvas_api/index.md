@@ -77,7 +77,7 @@ ctx.fillRect(10, 10, 150, 100);
 - [EaselJS](https://www.createjs.com/easeljs): ゲームやアート作品、その他の高度なグラフィック操作を容易にする、オープンソースのキャンバスライブラリー
 - [Fabric.js](http://fabricjs.com): SVG のパース機能を持つ、オープンソースのキャンバスライブラリー
 - [heatmap.js](https://www.patrick-wied.at/static/heatmapjs/): キャンバスベースのデータヒートマップを生成するためのオープンソースライブラリー
-- [JavaScript InfoVis Toolkit](https://thejit.org/): 対話的なデータの可視化を実現
+- [JavaScript InfoVis Toolkit](https://philogb.github.io/jit/): 対話的なデータの可視化を実現
 - [Konva.js](https://konvajs.github.io/): デスクトップおよびモバイルアプリケーション向けの 2D キャンバスライブラリー
 - [p5.js](https://p5js.org/): アーティスト、デザイナー、教育者、初心者のためのフル機能を持ったキャンバス描画機能
 - [Paper.js](http://paperjs.org/): HTML5 キャンバス上で動作する、オープンソースのベクターグラフィック向けスクリプトフレームワーク
